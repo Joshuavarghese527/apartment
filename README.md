@@ -22,5 +22,10 @@ Next, we will need to run the command
 npm install
 ```
 
+Finally, make sure you are in the right folder and then run the command 
 
+
+```
+npm run dev
+```
 
