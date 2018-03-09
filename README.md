@@ -8,7 +8,7 @@ List out all apartments from an API so a user can find the right fit for their n
 
 Apartment Name, # Bedrooms, # Bathrooms, Floorplan Name, Rent (show formatted currency as min-max range), Apply Online (link)
 
-### Prerequisites
+### Setup
 
 The first step is to get a clone of this reponsitory. Run the command below in your terminal to obtain the file.
 
