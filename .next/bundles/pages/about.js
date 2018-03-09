@@ -2,7 +2,7 @@ module.exports =
 
         __NEXT_REGISTER_PAGE('/about', function() {
           var comp = 
-      webpackJsonp([5],{
+      webpackJsonp([4],{
 
 /***/ "./components/Layout.js":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
@@ -11109,7 +11109,7 @@ var _default = About;
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__("./pages/about.js");
@@ -11117,7 +11117,7 @@ module.exports = __webpack_require__("./pages/about.js");
 
 /***/ })
 
-},[3])
+},[2])
           return { page: comp.default }
         })
       ;
