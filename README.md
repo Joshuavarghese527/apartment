@@ -8,6 +8,22 @@ List out all apartments from an API so a user can find the right fit for their n
 
 Apartment Name, # Bedrooms, # Bathrooms, Floorplan Name, Rent (show formatted currency as min-max range), Apply Online (link)
 
+## Before Setup
+
+Make sure you have nodejs install. Go to the link provided below and download the current version.
+
+```
+https://nodejs.org/en/
+```
+
+Next run the command 
+
+```
+npm install npm@latest -g
+```
+Great! We can now move onto the setup.
+
+
 ### Setup
 
 The first step is to get a clone of this reponsitory. Run the command below in your terminal to obtain the file.
